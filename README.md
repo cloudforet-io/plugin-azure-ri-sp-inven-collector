@@ -1,0 +1,1 @@
+# plugin-azure-ri-sp-inven-collector
